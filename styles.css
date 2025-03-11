@@ -27,6 +27,10 @@ h1 {
     font-size: 1.2rem;
 }
 
+h3 {
+    font-size: 0.75rem;
+}
+
 .card {
     display: flex;
     background-color: white;
@@ -71,7 +75,7 @@ h1 {
     align-items: center;
 }
 
-.profile span {
+.profile time {
     color: var(--Grayish-Blue);
 }
 
